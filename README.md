@@ -16,7 +16,7 @@ Joseph Brendan developed this course. Check out his YouTube channel: <a href="ht
 1. ⌨️ (0:12:02) Editing Shapes In Figma
 1. ⌨️ (0:36:14) Introduction To Typography In Figma
 1. ⌨️ (1:01:41) Design Tree In Figma
-1. ⌨️ (1:06:43) First Design Task
+1. >⌨️ (1:06:43) First Design Task 
 1. ⌨️ (1:20:44) Colors In Figma
 1. ⌨️ (1:44:22) Drawing Tools In Figma
 1. ⌨️ (1:49:20) Margin And Padding In UI UX Design
